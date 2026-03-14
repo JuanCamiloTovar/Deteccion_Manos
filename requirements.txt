@@ -1,6 +1,0 @@
-opencv-python
-mediapipe
-pygame
-
-# Optional (if using virtualenv on Windows):
-# numpy
